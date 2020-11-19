@@ -9,4 +9,4 @@
 日付の機能等を追加していきたい。
 
 # チーズアカデミーのwebサイト
--デプロイ先：
+-デプロイ先：https://github.com/yukari-torisu/03-25-ToDo-List
